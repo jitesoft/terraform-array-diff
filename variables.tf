@@ -13,7 +13,3 @@ variable "shell" {
   type        = "string"
   default     = "bash"
 }
-
-locals {
-  empty_list = []  
-}
